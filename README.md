@@ -4,6 +4,8 @@ A local-first music discovery and streaming app built with Next.js (App Router),
 
 DISC searches several legitimate catalogs, plays what those catalogs allow, and keeps your library, playlists and listening history **in your browser**. Nothing is synced to a server.
 
+🚀 Live Preview: [Disc](https://disc-beta-eight.vercel.app)
+
 ## Features
 
 - **Persistent player** with play/pause, previous/next, seek, volume/mute, shuffle, repeat (off/all/one), queue (play next, add, remove, reorder, clear), expanded full-screen player, lyrics tab, keyboard shortcuts (`/` search, `Space` play/pause, `Shift+←/→` previous/next).
